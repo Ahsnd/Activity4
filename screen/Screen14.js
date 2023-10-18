@@ -25,14 +25,14 @@ const Screen14 = () => {
         onValueChange={setValue}
         buttons={[
           {
-            value: 'Tinaja',
-            label: 'Maria',
+            value: 'hello',
+            label: 'Hello',
           },
           {
-            value: 'Eusalan',
-            label: 'Daisy',
+            value: 'Love',
+            label: 'Love',
           },
-          { value: 'Valiente', label: 'Melrose' },
+          { value: 'Goodbye', label: 'Goodbye' },
         ]}
       />
         <SegmentedButtons
